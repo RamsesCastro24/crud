@@ -1,0 +1,7 @@
+---
+mysql_root_password: " "
+app_user: "administrador"
+http_host: "rcastro.com"
+http_conf: "rcastro.com.conf"
+http_port: "80"
+disable_default: true
